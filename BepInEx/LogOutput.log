@@ -1,0 +1,351 @@
+[Message:   BepInEx] BepInEx 5.4.22.0 - valheim (7/1/2024 4:50:19 PM)
+[Message:   BepInEx] User is running BepInExPack Valheim version 5.4.2202 from Thunderstore
+[Info   :   BepInEx] Running under Unity v2022.3.17.5228416
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.22.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 4 plugins to load
+[Info   :   BepInEx] Loading [Fog Of War Explore Radius 0.7.3]
+[Info   :   BepInEx] Loading [FuelEternal 1.2.1]
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.2]
+[Info   :   BepInEx] Loading [GradedTeleportableItems by VM 1.0.1]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] Privilege Multiplayer is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege UserGeneratedContent is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] Privilege CrossPlay is not known on this platform. Privilege therefore is granted without check...
+[Info   : Unity Log] 07/31/2024 19:04:12: Set background loading budget to Low
+
+[Warning: Unity Log] 07/31/2024 19:04:12: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Warning: Unity Log] 07/31/2024 19:04:12: Fetching PlatformPrefs 'GuiScale' before loading defaults
+
+[Info   : Unity Log] 07/31/2024 19:04:12: Starting to load scene:start.unity (169d7618616154c03be07e9ad3af5893)
+
+[Info   : Unity Log] 07/31/2024 19:04:12: Set background loading budget to Normal
+
+[Info   : Unity Log] 07/31/2024 19:04:16: Set background loading budget to High
+
+[Info   : Unity Log] 07/31/2024 19:04:28: Set background loading budget to Low
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Warning: Unity Log] 07/31/2024 19:04:29: Missing audio clip in music respawn
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Using environment steamid 892970
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Using steam APPID:892970
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Steam initialized, persona:Krocan
+
+[Info   : Unity Log] 07/31/2024 19:04:29: PlayFab custom ID set to "Steam_76561198016298131"
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Using default prefs
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Valheim version: 0.218.19 (network version 27)
+
+[Info   : Unity Log] Trying to set graphic mode to 'Quality'
+[Info   : Unity Log] Graphic mode 'Quality' applied!
+[Info   : Unity Log] 07/31/2024 19:04:29: Worldgenerator version setup:2
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Render threading mode:MultiThreaded
+
+[Warning: Unity Log] 07/31/2024 19:04:29: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 07/31/2024 19:04:29: Set button "CamZoomOut" to None!
+
+[Warning: Unity Log] 07/31/2024 19:04:29: Set button "CamZoomIn" to None!
+
+[Warning: Unity Log] 07/31/2024 19:04:29: Set button "CamZoomOut" to None!
+
+[Info   : Unity Log] 07/31/2024 19:04:29: Checking for installed DLCs
+
+[Info   : Unity Log] 07/31/2024 19:04:29: DLC:beta installed:False
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #0 - 'localization' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #1 - 'localization_extra' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #2 - 'heightmap_message' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #3 - 'localization_hildir' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #4 - 'localization_emotes' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Loaded localization file #5 - 'localization_ashlands' language: 'English'
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Sending PlayFab login request (attempt 1)
+
+[Info   : Unity Log] 07/31/2024 19:04:30: Starting music menu
+
+[Info   : Unity Log] 07/31/2024 19:04:31: PlayFab logged in as "Steam_76561198016298131"
+
+[Info   : Unity Log] 07/31/2024 19:04:31: PlayFab local entity ID is C500662D71C8E925
+
+[Info   : Unity Log] 07/31/2024 19:04:36: show character selection
+
+[Info   : Unity Log] 07/31/2024 19:04:38: OnCharacterStart
+
+[Info   : Unity Log] 07/31/2024 19:04:39: Got dns entries: 1
+
+[Info   : Unity Log] 07/31/2024 19:04:39: Got dns entries: 1
+
+[Info   : Unity Log] 07/31/2024 19:04:39: PlayFab lobby matching search filter 'string_key10 eq '109.61.80.169:21043' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 07/31/2024 19:04:40: Added server with name charred.dathost.net:21043 to server list
+
+[Info   : Unity Log] 07/31/2024 19:04:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:42: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:43: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:44: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:44: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:44: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:44: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:45: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:45: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:45: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:45: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:46: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:46: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:46: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:46: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Backend not retreived yet, checking again in 0.25 seconds...
+
+[Info   : Unity Log] 07/31/2024 19:04:47: PlayFab lobby matching search filter 'string_key10 eq '109.61.80.169:21043' and string_key2 eq 'True'': Got back zero lobbies
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Determined backend of dedicated server to be Steamworks
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Loading main scene
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Cloud Save: 132 bytes. /serverlist/favorite.new
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (132 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam Cloud Move: 132 bytes. /serverlist/favorite -> /serverlist/favorite.old
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (132 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam Cloud Move: 132 bytes. /serverlist/favorite.new -> /serverlist/favorite
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (132 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Cloud Save: 173 bytes. /serverlist/recent.new
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (173 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam Cloud Move: 173 bytes. /serverlist/recent -> /serverlist/recent.old
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (173 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam Cloud Move: 173 bytes. /serverlist/recent.new -> /serverlist/recent
+
+[Info   : Unity Log] 07/31/2024 19:04:47: Steam writing file chunks 1 / 1, (173 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Audioman already exist, destroying self
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Steam initialized, persona:Krocan
+
+[Info   : Unity Log] 07/31/2024 19:04:48: PlayFab custom ID set to "Steam_76561198016298131"
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Using default prefs
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Loading player profile krocan
+
+[Info   : Unity Log] 07/31/2024 19:04:48: isModded: True
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Zonesystem Awake 3227
+
+[Info   : Unity Log] 07/31/2024 19:04:48: DungeonDB Awake 3227
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Steam initialized, persona:Krocan
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Checking for installed DLCs
+
+[Info   : Unity Log] 07/31/2024 19:04:48: DLC:beta installed:False
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Zonesystem Start 3227
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   : Unity Log] 07/31/2024 19:04:48: DungeonDB Start 3227
+
+[Info   : Unity Log] 07/31/2024 19:04:48: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 07/31/2024 19:04:48: ZNET START
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Connecting to server with Steam-backend 109.61.80.169:21043
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Starting to connect to 109.61.80.169:21043
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 07/31/2024 19:04:48: Got status changed msg k_ESteamNetworkingConnectionState_Connecting
+
+[Info   : Unity Log] 07/31/2024 19:04:48: New connection
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Got status changed msg k_ESteamNetworkingConnectionState_Connected
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Connected
+
+[Info   : Unity Log] 07/31/2024 19:04:48: Got connection SteamID 90200182479115292
+
+[Info   : Unity Log] 07/31/2024 19:05:00: Network version check, their:27, mine:27
+
+[Info   : Unity Log] 07/31/2024 19:05:00: Worldgenerator version setup:2
+
+[Info   : Unity Log] 07/31/2024 19:05:02: client got keys 11
+
+[Info   : Unity Log] 07/31/2024 19:05:02: client got location icons
+
+[Info   : Unity Log] 07/31/2024 19:05:02: Icons:4
+
+[Info   : Unity Log] 07/31/2024 19:05:02: Session auth respons callback
+
+[Info   : Unity Log] 07/31/2024 19:05:08: Generating new world minimap done [6270ms]
+
+[Info   : Unity Log] 07/31/2024 19:05:08: Minimap: unpacking compressed mapData 32124 => 8400961 bytes
+
+[Info   : Unity Log] 07/31/2024 19:05:09: Starting respawn
+
+[Info   : Unity Log] 07/31/2024 19:05:09: tip:$loadscreen_tip14
+
+[Info   : Unity Log] 07/31/2024 19:05:16: Spawned after 8.019994
+
+[Info   : Unity Log] 07/31/2024 19:05:16: Skipping unloading unused assets
+
+[Info   : Unity Log] 07/31/2024 19:05:16: Minimap: Adding unique location (0.79, 33.94, 1.42)
+
+[Info   : Unity Log] 07/31/2024 19:05:16: Minimap: Adding unique location (2041.80, 35.70, -1166.89)
+
+[Info   : Unity Log] 07/31/2024 19:05:16: Minimap: Adding unique location (-3706.29, 68.23, -320.58)
+
+[Info   : Unity Log] 07/31/2024 19:05:18: Starting music home
+
+[Info   : Unity Log] 07/31/2024 19:05:18: Resumed music home at 0
+
+[Info   : Unity Log] 07/31/2024 19:05:20: Loading dungeon
+
+[Info   : Unity Log] 07/31/2024 19:05:20: Dungeon loaded with 43 rooms in 2.0009 ms.
+
+[Info   : Unity Log] 07/31/2024 19:05:20: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 07/31/2024 19:05:20: Spawning dungeon
+
+[Info   : Unity Log] 07/31/2024 19:05:45: Activating default element Continue
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 07/31/2024 19:05:47: Available space to current user: 162981556224. Saving is blocked if below: 209828784 bytes. Warnings are given if below: 419657568
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 07/31/2024 19:05:47: Game - OnApplicationQuit
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 07/31/2024 19:05:47: Available space to current user: 162981556224. Saving is blocked if below: 209828784 bytes. Warnings are given if below: 419657568
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Shutting down
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Minimap: compressed mapData 8400961 => 32132 bytes
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Cloud Save: 56800 bytes. /characters/krocan.fch.new
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Steam writing file chunks 1 / 1, (56800 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Steam Cloud Move: 56792 bytes. /characters/krocan.fch -> /characters/krocan.fch.old
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Steam writing file chunks 1 / 1, (56792 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Steam Cloud Move: 56800 bytes. /characters/krocan.fch.new -> /characters/krocan.fch
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Steam writing file chunks 1 / 1, (56800 bytes)
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Considering autobackup. World time: 50.4, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] Am I Host? False
+[Info   : Unity Log] 07/31/2024 19:05:47: ZNet Shutdown
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Unloading unused assets
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Sending disconnect msg
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Sent to 90200182479115292
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Released session ticket
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Uninitialized
+[Info   : Unity Log] 07/31/2024 19:05:47: Disposing socket
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Closing socket 90200182479115292
+
+[Info   : Unity Log] 07/31/2024 19:05:47:   send queue size:0
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Last socket, unregistering callback
+
+[Info   : Unity Log] 07/31/2024 19:05:47: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Disposing socket
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Last socket, unregistering callback
+
+[Info   : Unity Log] 07/31/2024 19:05:47: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
+
+[Info   : Unity Log] 07/31/2024 19:05:47: Stopping build thread
+
+[Warning: Unity Log] 07/31/2024 19:05:50: Local player destroyed
+
+[Info   : Unity Log] 07/31/2024 19:05:50: ZNet OnDestroy
+
+[Info   : Unity Log] 07/31/2024 19:05:50: Net scene destroyed
+
+[Info   : Unity Log] 07/31/2024 19:05:50: Steam manager on destroy
+
